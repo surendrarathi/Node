@@ -1,0 +1,15 @@
+{
+  "name": "node-manager",
+  "version": "1.0.0",
+  "description": "managing password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Rathi",
+  "license": "ISC",
+  "dependencies": {
+    "node-persist": "^2.1.0"
+  }
+}
