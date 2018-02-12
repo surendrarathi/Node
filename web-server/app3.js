@@ -13,6 +13,6 @@ app.get("/userlist",function(req,res){
     })
 })
 
-app.listen(2000, function(){
-    console.log("server is running 2000");
+app.listen(3000, function(){
+    console.log("server is running 3000");
 });
